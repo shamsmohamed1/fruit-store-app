@@ -1,0 +1,6 @@
+{
+  "name": "متجر أحمد فرح",
+  "description": "متجر أحمد فرح الإلكتروني للتسوق المباشر وعروض اليوم وطلبات الجملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
